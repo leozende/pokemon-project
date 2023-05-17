@@ -14,7 +14,7 @@ body.dark-mode {
 header {
   display: flex;
   justify-content: space-between;
-  padding: 25px 20px;
+  padding: 25px;
 }
 
 header .logo,
@@ -26,7 +26,6 @@ header .image-button {
 header #change-theme-button {
   background: none;
   border: none;
-  cursor: pointer;
 }
 
 header .logo:hover,
